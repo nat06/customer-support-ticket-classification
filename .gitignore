@@ -1,0 +1,34 @@
+# Ignore the transformer_baseline directory
+transformer_baseline/
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# PyCharm
+.idea/
+
+# Hugging Face cache
+.cache/
+datasets_cache/
